@@ -12,7 +12,7 @@ namespace dice
 
            int roll1 = 0;
            int roll2 = 1;
-           int attempts = 0;
+           int attempts = 1;
            
           Console.WriteLine("Check out how many attempts it takes before You roll two dice of a kind." + "\n" + "Press some key to roll the dice");
 
